@@ -7,8 +7,6 @@ import json
 from threading import Thread
 
 def clean_str(str):
-    # parsed_obj = json.loads('{"text": "' + str + '"}')
-    # return parsed_obj['text']
     return str.replace("\\", "").replace("u0025", "%")
 
 def get_thumbnail(html_content):

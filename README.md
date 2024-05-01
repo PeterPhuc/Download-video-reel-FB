@@ -1,5 +1,5 @@
 # Introduce the topic
-- Have you ever wanted to save interesting videos from Facebook to your computer or phone but had difficulty doing so? Don't worry anymore because there is an effective solution for you - the Facebook video download tool. 
+- Have you ever wanted to save interesting videos from Facebook to your computer or phone but had difficulty doing so? Don't worry anymore because there is an effective solution for you - Facebook Video Downloader. 
 - Designed to be simple and easy to use, this tool allows you to download any video from Facebook to your device in just one simple step.
 - With this tool, you can comfortably enjoy your favorite videos anytime, anywhere without having to directly connect to the internet.- However, sometimes we want to store videos from YouTube to our devices or convert them to other formats to suit different needs.
 - Please follow the instructions below to download the tool.
@@ -12,15 +12,19 @@
 
 # **Guide to installing Download video and Reel of Facebook**
 
-> Download video and Reel of Facebook is a simple application that helps you download videos from Facebook. This application is written in Python language and uses the Tkinter library to perform video downloads.
+> Facebook Video Downloader is a simple application that helps you download videos from Facebook. This application is written in Python language and uses the Tkinter library to perform video downloads.
 > 
-## **Guide to installing Download video and Reel of Facebook from the source code**
+## **Guide to installing Facebook Video Downloader from the source code**
 
 ### **Step 1: Download the source code from Github**
 
-First, you need to download the source code of Download video and Reel of Facebook from Github. You can access the project's Github page at: [https://github.com/PeterPhuc/Download-video-reel-FB.git](https://github.com/PeterPhuc/Download-video-reel-FB.git)
+First, you need to download the source code of Facebook Video Downloader from Github. You can access the project's Github page at: [https://github.com/PeterPhuc/Download-video-reel-FB.git](https://github.com/PeterPhuc/Download-video-reel-FB.git)
 
-run:
+Windows: Go to https://github.com/PeterPhuc/Download-video-reel-FB/archive/refs/tags/v1.0.0.zip
+
+Linux: Go to https://github.com/PeterPhuc/Download-video-reel-FB/archive/refs/tags/v1.0.0.tar.gz
+
+If you have been install github, run:
 ```powershell
 git clone https://github.com/PeterPhuc/Download-video-reel-FB.git
 ```
@@ -84,4 +88,10 @@ Then, the Application will start up and display on the screen.
 
 ## **Conclusion**
 
-In this article, we have guided you to install the Download video and Reel of Facebook application from the source code and from the setup file. You can use this application to download videos from Facebook with many resolution options.
+In this article, we have guided you to install Facebook Video Downloader application from the source code and from the setup file. You can use this application to download videos from Facebook with many resolution options.
+
+For more information, follow my report [here](https://drive.google.com/file/d/1MwzIfVXwikbVxUnT7xWeFNODDrFp1lSg/view?usp=sharing) (Written in Vietnamese).
+
+Source code latex report [here](https://drive.google.com/file/d/1ifpGKiejAyOtLdm_bJx47NXy4PXoty3j/view?usp=sharing) (.zip)
+
+Or visit my Overleaf [here](https://www.overleaf.com/read/fmkghpgxcdkx#43b487)
